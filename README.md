@@ -1,6 +1,8 @@
 # python-api-challenge
 There are two folders within this particular API project, WeatherPy and VacationPy. The purpose is to evaluate the weather conditions in relation to the latitude and determine ideal vacation locations and corresponding hotels in the given cities. 
 
+Please enter in a valid API key if you need to rereun any of the notebooks. 
+
 ## Technologies
 Data was pulled from the OpenWeather API and Google Maps APIs to generate random cities and determine weather and visualize on a map. Matplitlib was used in combination with pandas in the python script and generated through jupyter notebooks, this allowed for ease of edit, update, and viewing of the weather and map data.
 
